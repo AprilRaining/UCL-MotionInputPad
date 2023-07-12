@@ -1,0 +1,15 @@
+{
+  "path": {
+  },
+  "speech_api": "eRFjTeOb14stOj9-RJe4ztUcodneU_g29NL4qwZFxp42",
+  "SMTP": {
+    "server": "smtp-mail.outlook.com",
+    "port": 587,
+    "email": "LPChen_test@outlook.com",
+    "password": "Test_LPChen"
+  },
+  "IMAP": {
+    "server": "imap-mail.outlook.com"
+
+  }
+}
